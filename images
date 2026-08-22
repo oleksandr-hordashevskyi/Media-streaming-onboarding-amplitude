@@ -1,1 +1,2 @@
-
+git add images/.gitkeep
+git commit -m "Replace images file with images directory"
