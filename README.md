@@ -1,7 +1,7 @@
 # 🎵 Media Streaming: Onboarding Funnel & User Retention Analysis in Amplitude
 
-[![Amplitude](https://img.shields.io/badge/Amplitude-Product_Analytics-4A154B?style=flat&logo=amplitude&logoColor=white)](#)
-[![Behavioral Cohorts](https://img.shields.io/badge/Cohorts-Segmentation-2C8EBB?style=flat)](#)
+[![Amplitude](https://img.shields.io/badge/Amplitude-Interactive_Dashboard_1-4A154B?style=flat&logo=amplitude&logoColor=white)](https://app.amplitude.com/analytics/demo/dashboard/j06xwhwi)
+[![Cohorts](https://img.shields.io/badge/Cohorts-Interactive_Dashboard_2-2C8EBB?style=flat&logo=amplitude&logoColor=white)](https://app.amplitude.com/analytics/demo/dashboard/f1hhq2h1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 📌 Executive Summary
